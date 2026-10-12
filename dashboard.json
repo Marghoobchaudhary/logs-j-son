@@ -1,20 +1,6 @@
 [
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "10/9/26",
-    "Sale_time": "10:30 AM",
-    "FileNo": "25-040358",
-    "PropAddress": "708 West Woodlawn Street",
-    "PropCity": "Vandalia",
-    "PropZip": "",
-    "County": "Audrain",
-    "OpeningBid": "$51,000",
-    "vendor": "Xome",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "11/3/26",
     "Sale_time": "10:30 AM",
     "FileNo": "26-042354",
@@ -23,7 +9,7 @@
     "PropZip": "",
     "County": "Audrain",
     "OpeningBid": "",
-    "vendor": "Xome",
+    "vendor": "XOME",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -37,7 +23,7 @@
     "PropZip": "",
     "County": "Boone",
     "OpeningBid": "",
-    "vendor": "Xome",
+    "vendor": "XOME",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -50,7 +36,7 @@
     "PropCity": "Columbia",
     "PropZip": "",
     "County": "Boone",
-    "OpeningBid": "",
+    "OpeningBid": "$125,000",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -78,8 +64,36 @@
     "PropCity": "Archie",
     "PropZip": "",
     "County": "Cass",
-    "OpeningBid": "$108,330",
+    "OpeningBid": "$0",
     "vendor": "Ascribe",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "10/22/26",
+    "Sale_time": "11:00 AM",
+    "FileNo": "25-041218",
+    "PropAddress": "26401 Robinson School Road",
+    "PropCity": "Prairie Home",
+    "PropZip": "",
+    "County": "Cooper",
+    "OpeningBid": "",
+    "vendor": "",
+    "status- DROP DOWN": "Cancelled",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/5/26",
+    "Sale_time": "11:00 AM",
+    "FileNo": "25-041218",
+    "PropAddress": "26401 Robinson School Road",
+    "PropCity": "Prairie Home",
+    "PropZip": "",
+    "County": "Cooper",
+    "OpeningBid": "",
+    "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -109,20 +123,6 @@
     "OpeningBid": "$29,600",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "10/9/26",
-    "Sale_time": "10:00 AM",
-    "FileNo": "25-040682",
-    "PropAddress": "13112 Corrington Avenue",
-    "PropCity": "Grandview",
-    "PropZip": "",
-    "County": "Jackson",
-    "OpeningBid": "",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "Cancelled",
     "Foreclosure Status": ""
   },
   {
@@ -204,7 +204,7 @@
     "PropCity": "Troy",
     "PropZip": "",
     "County": "Lincoln",
-    "OpeningBid": "",
+    "OpeningBid": "$141,312.5",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -317,7 +317,7 @@
     "PropZip": "",
     "County": "Warren",
     "OpeningBid": "",
-    "vendor": "Xome",
+    "vendor": "XOME",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   }
