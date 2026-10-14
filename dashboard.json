@@ -113,20 +113,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "10/13/26",
-    "Sale_time": "10:00 AM",
-    "FileNo": "26-042244",
-    "PropAddress": "203 East Missouri Avenue",
-    "PropCity": "Bland",
-    "PropZip": "",
-    "County": "Gasconade",
-    "OpeningBid": "$29,600",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "10/21/26",
     "Sale_time": "10:00 AM",
     "FileNo": "26-042287",
@@ -222,6 +208,20 @@
     "vendor": "Servicelink/Hudson Marshall",
     "status- DROP DOWN": "Cancelled",
     "Foreclosure Status": "On Hold"
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/5/26",
+    "Sale_time": "10:30 AM",
+    "FileNo": "26-042253",
+    "PropAddress": "52 Alesia Drive",
+    "PropCity": "East Prairie",
+    "PropZip": "",
+    "County": "Mississippi",
+    "OpeningBid": "",
+    "vendor": "XOME",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
   },
   {
     "Trustee": "LOGS.COM",
