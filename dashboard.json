@@ -239,6 +239,34 @@
   },
   {
     "Trustee": "LOGS.COM",
+    "Sale_date": "11/10/26",
+    "Sale_time": "11:30 AM",
+    "FileNo": "26-042137",
+    "PropAddress": "3303 South Ward Avenue",
+    "PropCity": "Caruthersville",
+    "PropZip": "",
+    "County": "Pemiscot",
+    "OpeningBid": "",
+    "vendor": "Auction.com",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/9/26",
+    "Sale_time": "10:00 AM",
+    "FileNo": "26-041487",
+    "PropAddress": "40711 East 212Th Street",
+    "PropCity": "Polo",
+    "PropZip": "",
+    "County": "Ray",
+    "OpeningBid": "",
+    "vendor": "",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
     "Sale_date": "10/23/26",
     "Sale_time": "10:00 AM",
     "FileNo": "26-042134",
@@ -260,7 +288,7 @@
     "PropCity": "Saint Charles",
     "PropZip": "",
     "County": "Saint Charles",
-    "OpeningBid": "",
+    "OpeningBid": "$186,684.75",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
