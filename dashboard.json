@@ -22,7 +22,7 @@
     "PropCity": "Columbia",
     "PropZip": "",
     "County": "Boone",
-    "OpeningBid": "",
+    "OpeningBid": "$81,019.73",
     "vendor": "XOME",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -52,20 +52,6 @@
     "County": "Butler",
     "OpeningBid": "$161,000",
     "vendor": "Vendor Resource Management",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "10/19/26",
-    "Sale_time": "10:00 AM",
-    "FileNo": "26-042141",
-    "PropAddress": "601 East State Route A",
-    "PropCity": "Archie",
-    "PropZip": "",
-    "County": "Cass",
-    "OpeningBid": "$77,572.61",
-    "vendor": "Ascribe",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -178,6 +164,20 @@
     "County": "Lincoln",
     "OpeningBid": "$141,312.5",
     "vendor": "Auction.com",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/10/26",
+    "Sale_time": "11:30 AM",
+    "FileNo": "26-042264",
+    "PropAddress": "923 3rd Street",
+    "PropCity": "Chillicothe",
+    "PropZip": "",
+    "County": "Livingston",
+    "OpeningBid": "",
+    "vendor": "Realty.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
