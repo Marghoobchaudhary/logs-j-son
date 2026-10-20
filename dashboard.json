@@ -43,20 +43,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "10/19/26",
-    "Sale_time": "10:00 AM",
-    "FileNo": "24-040043",
-    "PropAddress": "2599 County Road 604",
-    "PropCity": "Poplar Bluff",
-    "PropZip": "",
-    "County": "Butler",
-    "OpeningBid": "$161,000",
-    "vendor": "Vendor Resource Management",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "10/22/26",
     "Sale_time": "11:00 AM",
     "FileNo": "25-041218",
@@ -323,6 +309,20 @@
   },
   {
     "Trustee": "LOGS.COM",
+    "Sale_date": "11/6/26",
+    "Sale_time": "11:30 AM",
+    "FileNo": "26-042243",
+    "PropAddress": "2610 Irondale Drive",
+    "PropCity": "Saint Louis",
+    "PropZip": "",
+    "County": "Saint Louis",
+    "OpeningBid": "",
+    "vendor": "Auction.com",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
     "Sale_date": "11/4/26",
     "Sale_time": "11:00 AM",
     "FileNo": "24-039463",
@@ -332,20 +332,6 @@
     "County": "Saint Louis City",
     "OpeningBid": "",
     "vendor": "XOME",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "10/19/26",
-    "Sale_time": "02:00 PM",
-    "FileNo": "26-041829",
-    "PropAddress": "17137 County Road 690",
-    "PropCity": "Bernie",
-    "PropZip": "",
-    "County": "Stoddard",
-    "OpeningBid": "$76,700",
-    "vendor": "Servicelink/Hudson Marshall",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
