@@ -29,6 +29,20 @@
   },
   {
     "Trustee": "LOGS.COM",
+    "Sale_date": "11/17/26",
+    "Sale_time": "09:30 AM",
+    "FileNo": "22-036553",
+    "PropAddress": "504 NE 74th Ter",
+    "PropCity": "Kansas City",
+    "PropZip": "",
+    "County": "Clay",
+    "OpeningBid": "",
+    "vendor": "Xome",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
     "Sale_date": "11/5/26",
     "Sale_time": "11:00 AM",
     "FileNo": "25-041218",
@@ -66,6 +80,20 @@
     "County": "Franklin",
     "OpeningBid": "",
     "vendor": "Auction.com",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/24/26",
+    "Sale_time": "11:00 AM",
+    "FileNo": "26-042263",
+    "PropAddress": "955 Shady Street",
+    "PropCity": "Saint Clair",
+    "PropZip": "",
+    "County": "Franklin",
+    "OpeningBid": "",
+    "vendor": "Ascribe",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -113,6 +141,20 @@
   },
   {
     "Trustee": "LOGS.COM",
+    "Sale_date": "11/12/26",
+    "Sale_time": "09:15 AM",
+    "FileNo": "26-042332",
+    "PropAddress": "2122 Manor Ct",
+    "PropCity": "Barnhart",
+    "PropZip": "",
+    "County": "Jefferson",
+    "OpeningBid": "$208,616.22",
+    "vendor": "",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
     "Sale_date": "11/17/26",
     "Sale_time": "10:00 AM",
     "FileNo": "25-040512",
@@ -138,20 +180,6 @@
     "vendor": "Realty.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "10/23/26",
-    "Sale_time": "11:30 AM",
-    "FileNo": "26-042144",
-    "PropAddress": "2646 Highway OO",
-    "PropCity": "Fredericktown",
-    "PropZip": "",
-    "County": "Madison",
-    "OpeningBid": "$27,317",
-    "vendor": "Servicelink/Hudson Marshall",
-    "status- DROP DOWN": "Cancelled",
-    "Foreclosure Status": "On Hold"
   },
   {
     "Trustee": "LOGS.COM",
@@ -183,20 +211,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "10/23/26",
-    "Sale_time": "10:00 AM",
-    "FileNo": "26-042134",
-    "PropAddress": "195 Flycatcher Lane",
-    "PropCity": "Fairdealing",
-    "PropZip": "",
-    "County": "Ripley",
-    "OpeningBid": "",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "Cancelled",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "10/28/26",
     "Sale_time": "10:00 AM",
     "FileNo": "24-039207",
@@ -204,7 +218,7 @@
     "PropCity": "Saint Charles",
     "PropZip": "",
     "County": "Saint Charles",
-    "OpeningBid": "",
+    "OpeningBid": "$186,962.6",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -330,7 +344,21 @@
     "PropCity": "Warrenton",
     "PropZip": "",
     "County": "Warren",
-    "OpeningBid": "$111,000",
+    "OpeningBid": "",
+    "vendor": "Xome",
+    "status- DROP DOWN": "Postponed",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/2/26",
+    "Sale_time": "11:30 AM",
+    "FileNo": "25-040460",
+    "PropAddress": "22770 West Veterans Memorial Parkway",
+    "PropCity": "Warrenton",
+    "PropZip": "",
+    "County": "Warren",
+    "OpeningBid": "",
     "vendor": "Xome",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
