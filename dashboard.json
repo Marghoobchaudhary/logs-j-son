@@ -281,20 +281,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/6/26",
-    "Sale_time": "11:30 AM",
-    "FileNo": "26-042243",
-    "PropAddress": "2610 Irondale Drive",
-    "PropCity": "Saint Louis",
-    "PropZip": "",
-    "County": "Saint Louis",
-    "OpeningBid": "",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "11/4/26",
     "Sale_time": "11:00 AM",
     "FileNo": "24-039463",
@@ -323,6 +309,20 @@
   },
   {
     "Trustee": "LOGS.COM",
+    "Sale_date": "11/17/26",
+    "Sale_time": "11:00 AM",
+    "FileNo": "26-042336",
+    "PropAddress": "601 Glenn Drive",
+    "PropCity": "Sikeston",
+    "PropZip": "",
+    "County": "Scott",
+    "OpeningBid": "",
+    "vendor": "",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
     "Sale_date": "11/2/26",
     "Sale_time": "02:00 PM",
     "FileNo": "26-042311",
@@ -333,20 +333,6 @@
     "OpeningBid": "$48,000",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "10/26/26",
-    "Sale_time": "11:30 AM",
-    "FileNo": "25-040460",
-    "PropAddress": "22770 West Veterans Memorial Parkway",
-    "PropCity": "Warrenton",
-    "PropZip": "",
-    "County": "Warren",
-    "OpeningBid": "",
-    "vendor": "Xome",
-    "status- DROP DOWN": "Postponed",
     "Foreclosure Status": ""
   },
   {
