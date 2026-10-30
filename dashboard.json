@@ -38,8 +38,8 @@
     "County": "Cape Girardeau",
     "OpeningBid": "",
     "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
+    "status- DROP DOWN": "Cancelled",
+    "Foreclosure Status": "On Hold"
   },
   {
     "Trustee": "LOGS.COM",
@@ -64,7 +64,7 @@
     "PropCity": "Prairie Home",
     "PropZip": "",
     "County": "Cooper",
-    "OpeningBid": "",
+    "OpeningBid": "$90,301.14",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -164,6 +164,20 @@
     "County": "Jackson",
     "OpeningBid": "",
     "vendor": "Auction.com",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/18/26",
+    "Sale_time": "11:00 AM",
+    "FileNo": "26-042279",
+    "PropAddress": "8511 Kentucky Avenue",
+    "PropCity": "Raytown",
+    "PropZip": "",
+    "County": "Jackson",
+    "OpeningBid": "",
+    "vendor": "Ascribe",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -288,7 +302,7 @@
     "PropCity": "Saint Charles",
     "PropZip": "",
     "County": "Saint Charles",
-    "OpeningBid": "",
+    "OpeningBid": "$187,482.23",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -302,7 +316,7 @@
     "PropCity": "Saint Louis",
     "PropZip": "",
     "County": "Saint Louis",
-    "OpeningBid": "",
+    "OpeningBid": "$331,364.73",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -318,6 +332,34 @@
     "County": "Saint Louis",
     "OpeningBid": "$218,000",
     "vendor": "",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/18/26",
+    "Sale_time": "09:30 AM",
+    "FileNo": "26-042047",
+    "PropAddress": "111 Mann Street",
+    "PropCity": "Saint Louis",
+    "PropZip": "",
+    "County": "Saint Louis",
+    "OpeningBid": "",
+    "vendor": "Realty.com",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/18/26",
+    "Sale_time": "09:30 AM",
+    "FileNo": "26-042050",
+    "PropAddress": "9201 Riverwood Drive",
+    "PropCity": "Jennings",
+    "PropZip": "",
+    "County": "Saint Louis",
+    "OpeningBid": "",
+    "vendor": "Realty.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -379,6 +421,34 @@
   },
   {
     "Trustee": "LOGS.COM",
+    "Sale_date": "11/18/26",
+    "Sale_time": "11:00 AM",
+    "FileNo": "26-042399",
+    "PropAddress": "6154 West Park Avenue",
+    "PropCity": "St. Louis",
+    "PropZip": "",
+    "County": "Saint Louis City",
+    "OpeningBid": "",
+    "vendor": "",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/18/26",
+    "Sale_time": "11:00 AM",
+    "FileNo": "26-042415",
+    "PropAddress": "5124 Maffitt Avenue",
+    "PropCity": "Saint Louis",
+    "PropZip": "",
+    "County": "Saint Louis City",
+    "OpeningBid": "",
+    "vendor": "",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
     "Sale_date": "11/17/26",
     "Sale_time": "11:00 AM",
     "FileNo": "26-042336",
@@ -414,7 +484,7 @@
     "PropCity": "Warrenton",
     "PropZip": "",
     "County": "Warren",
-    "OpeningBid": "",
+    "OpeningBid": "$11,100",
     "vendor": "Xome",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
