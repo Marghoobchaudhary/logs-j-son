@@ -1,20 +1,6 @@
 [
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/3/26",
-    "Sale_time": "10:30 AM",
-    "FileNo": "26-042354",
-    "PropAddress": "406 North Clark Street",
-    "PropCity": "Vandalia",
-    "PropZip": "",
-    "County": "Audrain",
-    "OpeningBid": "",
-    "vendor": "Xome",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "11/19/26",
     "Sale_time": "10:00 AM",
     "FileNo": "26-042236",
@@ -52,6 +38,20 @@
     "County": "Clay",
     "OpeningBid": "",
     "vendor": "Xome",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/24/26",
+    "Sale_time": "10:00 AM",
+    "FileNo": "26-042407",
+    "PropAddress": "1702 Ne 67Th Terrace",
+    "PropCity": "Gladstone",
+    "PropZip": "",
+    "County": "Clay",
+    "OpeningBid": "",
+    "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -205,6 +205,20 @@
     "PropZip": "",
     "County": "Jefferson",
     "OpeningBid": "$208,616.22",
+    "vendor": "",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/30/26",
+    "Sale_time": "11:00 AM",
+    "FileNo": "26-042250",
+    "PropAddress": "703 Virginia Street",
+    "PropCity": "Aurora",
+    "PropZip": "",
+    "County": "Lawrence",
+    "OpeningBid": "",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
