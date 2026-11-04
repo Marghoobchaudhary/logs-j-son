@@ -39,7 +39,7 @@
     "OpeningBid": "",
     "vendor": "Auction.com",
     "status- DROP DOWN": "Cancelled",
-    "Foreclosure Status": "On Hold"
+    "Foreclosure Status": ""
   },
   {
     "Trustee": "LOGS.COM",
@@ -176,7 +176,7 @@
     "PropCity": "Independence",
     "PropZip": "",
     "County": "Jackson",
-    "OpeningBid": "",
+    "OpeningBid": "$147,700",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -302,7 +302,7 @@
     "PropCity": "East Prairie",
     "PropZip": "",
     "County": "Mississippi",
-    "OpeningBid": "",
+    "OpeningBid": "$53,940.35",
     "vendor": "Xome",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -352,20 +352,6 @@
   {
     "Trustee": "LOGS.COM",
     "Sale_date": "11/4/26",
-    "Sale_time": "10:00 AM",
-    "FileNo": "24-039207",
-    "PropAddress": "4459 Hesters Way",
-    "PropCity": "Saint Charles",
-    "PropZip": "",
-    "County": "Saint Charles",
-    "OpeningBid": "$187,482.23",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/4/26",
     "Sale_time": "09:30 AM",
     "FileNo": "23-038947",
     "PropAddress": "13203 Windygate Lane",
@@ -374,7 +360,7 @@
     "County": "Saint Louis",
     "OpeningBid": "$331,364.73",
     "vendor": "",
-    "status- DROP DOWN": "",
+    "status- DROP DOWN": "Cancelled",
     "Foreclosure Status": ""
   },
   {
@@ -421,6 +407,20 @@
   },
   {
     "Trustee": "LOGS.COM",
+    "Sale_date": "11/23/26",
+    "Sale_time": "09:30 AM",
+    "FileNo": "24-039564",
+    "PropAddress": "131 West Etta Avenue",
+    "PropCity": "Saint Louis",
+    "PropZip": "",
+    "County": "Saint Louis",
+    "OpeningBid": "",
+    "vendor": "",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
     "Sale_date": "11/4/26",
     "Sale_time": "11:00 AM",
     "FileNo": "24-039463",
@@ -428,7 +428,7 @@
     "PropCity": "Saint Louis",
     "PropZip": "",
     "County": "Saint Louis City",
-    "OpeningBid": "",
+    "OpeningBid": "$51,000",
     "vendor": "Xome",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -442,7 +442,7 @@
     "PropCity": "Saint Louis",
     "PropZip": "",
     "County": "Saint Louis City",
-    "OpeningBid": "",
+    "OpeningBid": "$89,865.89",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
