@@ -1,6 +1,20 @@
 [
   {
     "Trustee": "LOGS.COM",
+    "Sale_date": "12/1/26",
+    "Sale_time": "11:30 AM",
+    "FileNo": "26-042354",
+    "PropAddress": "406 North Clark Street",
+    "PropCity": "Vandalia",
+    "PropZip": "",
+    "County": "Audrain",
+    "OpeningBid": "",
+    "vendor": "XOME",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
     "Sale_date": "11/19/26",
     "Sale_time": "10:00 AM",
     "FileNo": "26-042236",
@@ -51,7 +65,7 @@
     "PropZip": "",
     "County": "Clay",
     "OpeningBid": "",
-    "vendor": "Xome",
+    "vendor": "XOME",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -127,20 +141,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/4/26",
-    "Sale_time": "10:00 AM",
-    "FileNo": "26-041970",
-    "PropAddress": "4009 Lawn Avenue",
-    "PropCity": "Kansas City",
-    "PropZip": "",
-    "County": "Jackson",
-    "OpeningBid": "$94,770",
-    "vendor": "Ascribe",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "11/9/26",
     "Sale_time": "11:30 AM",
     "FileNo": "26-042260",
@@ -150,8 +150,8 @@
     "County": "Jackson",
     "OpeningBid": "",
     "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
+    "status- DROP DOWN": "Cancelled",
+    "Foreclosure Status": "On Hold"
   },
   {
     "Trustee": "LOGS.COM",
@@ -162,7 +162,7 @@
     "PropCity": "Blue Springs",
     "PropZip": "",
     "County": "Jackson",
-    "OpeningBid": "",
+    "OpeningBid": "$107,111.27",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -219,7 +219,7 @@
     "PropZip": "",
     "County": "Jackson",
     "OpeningBid": "",
-    "vendor": "Xome",
+    "vendor": "XOME",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -288,7 +288,7 @@
     "PropCity": "Chillicothe",
     "PropZip": "",
     "County": "Livingston",
-    "OpeningBid": "",
+    "OpeningBid": "$15,900",
     "vendor": "Realty.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -303,7 +303,7 @@
     "PropZip": "",
     "County": "Mississippi",
     "OpeningBid": "$53,940.35",
-    "vendor": "Xome",
+    "vendor": "XOME",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -351,34 +351,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/4/26",
-    "Sale_time": "09:30 AM",
-    "FileNo": "23-038947",
-    "PropAddress": "13203 Windygate Lane",
-    "PropCity": "Saint Louis",
-    "PropZip": "",
-    "County": "Saint Louis",
-    "OpeningBid": "$331,364.73",
-    "vendor": "",
-    "status- DROP DOWN": "Cancelled",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/4/26",
-    "Sale_time": "09:30 AM",
-    "FileNo": "26-042270",
-    "PropAddress": "12404 Merrick Drive",
-    "PropCity": "Saint Louis",
-    "PropZip": "",
-    "County": "Saint Louis",
-    "OpeningBid": "$218,000",
-    "vendor": "",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "11/18/26",
     "Sale_time": "09:30 AM",
     "FileNo": "26-042047",
@@ -416,20 +388,6 @@
     "County": "Saint Louis",
     "OpeningBid": "",
     "vendor": "",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/4/26",
-    "Sale_time": "11:00 AM",
-    "FileNo": "24-039463",
-    "PropAddress": "3741 Marine Avenue",
-    "PropCity": "Saint Louis",
-    "PropZip": "",
-    "County": "Saint Louis City",
-    "OpeningBid": "$51,000",
-    "vendor": "Xome",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
