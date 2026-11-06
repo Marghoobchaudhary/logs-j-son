@@ -53,7 +53,7 @@
     "OpeningBid": "",
     "vendor": "Auction.com",
     "status- DROP DOWN": "Cancelled",
-    "Foreclosure Status": ""
+    "Foreclosure Status": "On Hold"
   },
   {
     "Trustee": "LOGS.COM",
@@ -80,21 +80,7 @@
     "County": "Clay",
     "OpeningBid": "",
     "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/5/26",
-    "Sale_time": "11:00 AM",
-    "FileNo": "25-041218",
-    "PropAddress": "26401 Robinson School Road",
-    "PropCity": "Prairie Home",
-    "PropZip": "",
-    "County": "Cooper",
-    "OpeningBid": "$90,301.14",
-    "vendor": "",
-    "status- DROP DOWN": "",
+    "status- DROP DOWN": "Cancelled",
     "Foreclosure Status": ""
   },
   {
@@ -134,7 +120,7 @@
     "PropCity": "Saint Clair",
     "PropZip": "",
     "County": "Franklin",
-    "OpeningBid": "",
+    "OpeningBid": "$80,040",
     "vendor": "Ascribe",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -295,14 +281,14 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/5/26",
+    "Sale_date": "11/12/26",
     "Sale_time": "10:30 AM",
     "FileNo": "26-042253",
     "PropAddress": "52 Alesia Drive",
     "PropCity": "East Prairie",
     "PropZip": "",
     "County": "Mississippi",
-    "OpeningBid": "$53,940.35",
+    "OpeningBid": "",
     "vendor": "XOME",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
