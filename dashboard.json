@@ -127,17 +127,17 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/9/26",
+    "Sale_date": "12/3/26",
     "Sale_time": "11:30 AM",
-    "FileNo": "26-042260",
-    "PropAddress": "7334 Washington Street",
-    "PropCity": "Kansas City",
+    "FileNo": "25-040535",
+    "PropAddress": "218 South Harlin Drive",
+    "PropCity": "West Plains",
     "PropZip": "",
-    "County": "Jackson",
+    "County": "Howell",
     "OpeningBid": "",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "Cancelled",
-    "Foreclosure Status": "On Hold"
+    "vendor": "Servicelink/Hudson Marshall",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
   },
   {
     "Trustee": "LOGS.COM",
@@ -332,7 +332,7 @@
     "County": "Pemiscot",
     "OpeningBid": "$67,900",
     "vendor": "Auction.com",
-    "status- DROP DOWN": "",
+    "status- DROP DOWN": "Cancelled",
     "Foreclosure Status": ""
   },
   {
@@ -386,22 +386,8 @@
     "PropCity": "Saint Louis",
     "PropZip": "",
     "County": "Saint Louis",
-    "OpeningBid": "",
+    "OpeningBid": "$61,880",
     "vendor": "",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/9/26",
-    "Sale_time": "12:00 PM",
-    "FileNo": "25-040416",
-    "PropAddress": "4525 Chouteau Avenue",
-    "PropCity": "Saint Louis",
-    "PropZip": "",
-    "County": "Saint Louis City",
-    "OpeningBid": "$89,865.89",
-    "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -444,7 +430,7 @@
     "County": "Saint Louis City",
     "OpeningBid": "",
     "vendor": "",
-    "status- DROP DOWN": "",
+    "status- DROP DOWN": "Postponed",
     "Foreclosure Status": ""
   },
   {
@@ -454,6 +440,20 @@
     "FileNo": "26-042415",
     "PropAddress": "5124 Maffitt Avenue",
     "PropCity": "Saint Louis",
+    "PropZip": "",
+    "County": "Saint Louis City",
+    "OpeningBid": "",
+    "vendor": "",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/25/26",
+    "Sale_time": "11:00 AM",
+    "FileNo": "26-042399",
+    "PropAddress": "6154 West Park Avenue",
+    "PropCity": "St. Louis",
     "PropZip": "",
     "County": "Saint Louis City",
     "OpeningBid": "",
