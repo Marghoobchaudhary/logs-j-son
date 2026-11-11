@@ -85,6 +85,20 @@
   },
   {
     "Trustee": "LOGS.COM",
+    "Sale_date": "12/3/26",
+    "Sale_time": "12:30 PM",
+    "FileNo": "26-042389",
+    "PropAddress": "800 North Hickory Street",
+    "PropCity": "Salem",
+    "PropZip": "",
+    "County": "Dent",
+    "OpeningBid": "",
+    "vendor": "Auction.com",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
     "Sale_date": "11/17/26",
     "Sale_time": "12:00 PM",
     "FileNo": "26-041711",
@@ -92,7 +106,7 @@
     "PropCity": "Drury",
     "PropZip": "",
     "County": "Douglas",
-    "OpeningBid": "",
+    "OpeningBid": "$109,940.6",
     "vendor": "Servicelink/Hudson Marshall",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -106,7 +120,7 @@
     "PropCity": "Washington",
     "PropZip": "",
     "County": "Franklin",
-    "OpeningBid": "",
+    "OpeningBid": "$119,043.19",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -150,7 +164,7 @@
     "County": "Jackson",
     "OpeningBid": "$107,111.27",
     "vendor": "",
-    "status- DROP DOWN": "",
+    "status- DROP DOWN": "Cancelled",
     "Foreclosure Status": ""
   },
   {
@@ -281,20 +295,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/10/26",
-    "Sale_time": "11:30 AM",
-    "FileNo": "26-042264",
-    "PropAddress": "923 3rd Street",
-    "PropCity": "Chillicothe",
-    "PropZip": "",
-    "County": "Livingston",
-    "OpeningBid": "$15,900",
-    "vendor": "Realty.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "11/12/26",
     "Sale_time": "10:30 AM",
     "FileNo": "26-042253",
@@ -302,7 +302,7 @@
     "PropCity": "East Prairie",
     "PropZip": "",
     "County": "Mississippi",
-    "OpeningBid": "",
+    "OpeningBid": "$53,999.31",
     "vendor": "XOME",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -323,20 +323,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/10/26",
-    "Sale_time": "11:30 AM",
-    "FileNo": "26-042137",
-    "PropAddress": "3303 South Ward Avenue",
-    "PropCity": "Caruthersville",
-    "PropZip": "",
-    "County": "Pemiscot",
-    "OpeningBid": "$67,900",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "Cancelled",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "11/23/26",
     "Sale_time": "10:00 AM",
     "FileNo": "26-041724",
@@ -346,6 +332,34 @@
     "County": "Ray",
     "OpeningBid": "",
     "vendor": "Auction.com",
+    "status- DROP DOWN": "Cancelled",
+    "Foreclosure Status": "On Hold"
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/30/26",
+    "Sale_time": "12:30 PM",
+    "FileNo": "26-042145",
+    "PropAddress": "611 Aster Lane",
+    "PropCity": "Ofallon",
+    "PropZip": "",
+    "County": "Saint Charles",
+    "OpeningBid": "",
+    "vendor": "Realty.com",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/30/26",
+    "Sale_time": "12:30 PM",
+    "FileNo": "26-042377",
+    "PropAddress": "3324 West Adams Street",
+    "PropCity": "Saint Charles",
+    "PropZip": "",
+    "County": "Saint Charles",
+    "OpeningBid": "",
+    "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -372,7 +386,7 @@
     "PropCity": "Jennings",
     "PropZip": "",
     "County": "Saint Louis",
-    "OpeningBid": "",
+    "OpeningBid": "$8,500",
     "vendor": "Realty.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -388,6 +402,20 @@
     "County": "Saint Louis",
     "OpeningBid": "$61,880",
     "vendor": "",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "11/30/26",
+    "Sale_time": "11:30 AM",
+    "FileNo": "26-042015",
+    "PropAddress": "4064 Portland Ridge Drive",
+    "PropCity": "Florissant",
+    "PropZip": "",
+    "County": "Saint Louis",
+    "OpeningBid": "",
+    "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -470,7 +498,7 @@
     "PropCity": "Sikeston",
     "PropZip": "",
     "County": "Scott",
-    "OpeningBid": "",
+    "OpeningBid": "$134,121.33",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
