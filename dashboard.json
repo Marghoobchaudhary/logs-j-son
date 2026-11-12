@@ -36,7 +36,7 @@
     "PropCity": "Poplar Bluff",
     "PropZip": "",
     "County": "Butler",
-    "OpeningBid": "",
+    "OpeningBid": "$40,600",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -151,20 +151,6 @@
     "OpeningBid": "",
     "vendor": "Servicelink/Hudson Marshall",
     "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/11/26",
-    "Sale_time": "11:00 AM",
-    "FileNo": "26-042121",
-    "PropAddress": "508 Southwest Victor Drive",
-    "PropCity": "Blue Springs",
-    "PropZip": "",
-    "County": "Jackson",
-    "OpeningBid": "$107,111.27",
-    "vendor": "",
-    "status- DROP DOWN": "Cancelled",
     "Foreclosure Status": ""
   },
   {
@@ -470,7 +456,7 @@
     "PropCity": "Saint Louis",
     "PropZip": "",
     "County": "Saint Louis City",
-    "OpeningBid": "",
+    "OpeningBid": "$42,685.15",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
