@@ -141,20 +141,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/16/26",
-    "Sale_time": "10:00 AM",
-    "FileNo": "26-042256",
-    "PropAddress": "705 South Crisp Avenue",
-    "PropCity": "Independence",
-    "PropZip": "",
-    "County": "Jackson",
-    "OpeningBid": "$147,700",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "11/18/26",
     "Sale_time": "11:00 AM",
     "FileNo": "26-042279",
@@ -260,7 +246,7 @@
     "PropCity": "Aurora",
     "PropZip": "",
     "County": "Lawrence",
-    "OpeningBid": "",
+    "OpeningBid": "$107,970",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -274,7 +260,7 @@
     "PropCity": "Winfield",
     "PropZip": "",
     "County": "Lincoln",
-    "OpeningBid": "",
+    "OpeningBid": "$95,024.77",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -388,7 +374,7 @@
     "County": "Saint Louis",
     "OpeningBid": "",
     "vendor": "Auction.com",
-    "status- DROP DOWN": "",
+    "status- DROP DOWN": "Cancelled",
     "Foreclosure Status": ""
   },
   {
@@ -429,20 +415,6 @@
     "PropZip": "",
     "County": "Saint Louis",
     "OpeningBid": "",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/16/26",
-    "Sale_time": "12:00 PM",
-    "FileNo": "26-042373",
-    "PropAddress": "5638 Park Lane",
-    "PropCity": "Saint Louis",
-    "PropZip": "",
-    "County": "Saint Louis City",
-    "OpeningBid": "$63,875.35",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
