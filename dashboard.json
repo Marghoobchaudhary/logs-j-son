@@ -43,20 +43,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/17/26",
-    "Sale_time": "09:30 AM",
-    "FileNo": "22-036553",
-    "PropAddress": "504 NE 74th Ter",
-    "PropCity": "Kansas City",
-    "PropZip": "",
-    "County": "Clay",
-    "OpeningBid": "$184,800",
-    "vendor": "Xome",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "12/1/26",
     "Sale_time": "09:30 AM",
     "FileNo": "25-041083",
@@ -79,34 +65,6 @@
     "PropZip": "",
     "County": "Dent",
     "OpeningBid": "",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/17/26",
-    "Sale_time": "12:00 PM",
-    "FileNo": "26-041711",
-    "PropAddress": "8650 County Road 235",
-    "PropCity": "Drury",
-    "PropZip": "",
-    "County": "Douglas",
-    "OpeningBid": "$109,940.6",
-    "vendor": "Servicelink/Hudson Marshall",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/17/26",
-    "Sale_time": "10:00 AM",
-    "FileNo": "26-042405",
-    "PropAddress": "601 West 9th Street",
-    "PropCity": "Washington",
-    "PropZip": "",
-    "County": "Franklin",
-    "OpeningBid": "$119,043.19",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -176,7 +134,7 @@
     "PropCity": "Independence",
     "PropZip": "",
     "County": "Jackson",
-    "OpeningBid": "",
+    "OpeningBid": "$193,800",
     "vendor": "Xome",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -193,7 +151,7 @@
     "OpeningBid": "",
     "vendor": "",
     "status- DROP DOWN": "",
-    "Foreclosure Status": ""
+    "Foreclosure Status": "On Hold"
   },
   {
     "Trustee": "LOGS.COM",
@@ -248,20 +206,6 @@
     "County": "Lawrence",
     "OpeningBid": "$107,970",
     "vendor": "",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/17/26",
-    "Sale_time": "10:00 AM",
-    "FileNo": "25-040512",
-    "PropAddress": "332 Fourbush Court",
-    "PropCity": "Winfield",
-    "PropZip": "",
-    "County": "Lincoln",
-    "OpeningBid": "$95,024.77",
-    "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -332,7 +276,7 @@
     "County": "Saint Louis",
     "OpeningBid": "$76,584.16",
     "vendor": "Realty.com",
-    "status- DROP DOWN": "",
+    "status- DROP DOWN": "Cancelled",
     "Foreclosure Status": ""
   },
   {
@@ -421,6 +365,34 @@
   },
   {
     "Trustee": "LOGS.COM",
+    "Sale_date": "12/7/26",
+    "Sale_time": "09:30 AM",
+    "FileNo": "26-041436",
+    "PropAddress": "925 Erskine Avenue",
+    "PropCity": "Saint Louis",
+    "PropZip": "",
+    "County": "Saint Louis",
+    "OpeningBid": "",
+    "vendor": "Servicelink",
+    "status- DROP DOWN": "Cancelled",
+    "Foreclosure Status": "On Hold"
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "12/7/26",
+    "Sale_time": "09:30 AM",
+    "FileNo": "26-042489",
+    "PropAddress": "13205 Old Jamestown Road",
+    "PropCity": "Black Jack",
+    "PropZip": "",
+    "County": "Saint Louis",
+    "OpeningBid": "",
+    "vendor": "",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
     "Sale_date": "11/18/26",
     "Sale_time": "11:00 AM",
     "FileNo": "26-042393",
@@ -486,20 +458,6 @@
     "County": "Saint Louis City",
     "OpeningBid": "",
     "vendor": "Realty.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/17/26",
-    "Sale_time": "11:00 AM",
-    "FileNo": "26-042336",
-    "PropAddress": "601 Glenn Drive",
-    "PropCity": "Sikeston",
-    "PropZip": "",
-    "County": "Scott",
-    "OpeningBid": "$134,121.33",
-    "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
