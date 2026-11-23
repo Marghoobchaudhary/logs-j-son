@@ -43,6 +43,20 @@
   },
   {
     "Trustee": "LOGS.COM",
+    "Sale_date": "12/15/26",
+    "Sale_time": "10:00 AM",
+    "FileNo": "26-042562",
+    "PropAddress": "13602 Northeast 139Th Street",
+    "PropCity": "Kearney",
+    "PropZip": "",
+    "County": "Clay",
+    "OpeningBid": "",
+    "vendor": "Auction.com",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
     "Sale_date": "12/3/26",
     "Sale_time": "12:30 PM",
     "FileNo": "26-042389",
@@ -78,7 +92,7 @@
     "PropCity": "West Plains",
     "PropZip": "",
     "County": "Howell",
-    "OpeningBid": "",
+    "OpeningBid": "$127,440",
     "vendor": "Servicelink/Hudson Marshall",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -99,14 +113,14 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/20/26",
+    "Sale_date": "11/25/26",
     "Sale_time": "10:00 AM",
     "FileNo": "26-042476",
     "PropAddress": "500 Northwest Europa Drive",
     "PropCity": "Grain Valley",
     "PropZip": "",
     "County": "Jackson",
-    "OpeningBid": "$239,400",
+    "OpeningBid": "",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -135,7 +149,7 @@
     "PropZip": "",
     "County": "Jackson",
     "OpeningBid": "",
-    "vendor": "",
+    "vendor": "Auction.com",
     "status- DROP DOWN": "Cancelled",
     "Foreclosure Status": "On Hold"
   },
@@ -176,7 +190,7 @@
     "PropCity": "Joplin",
     "PropZip": "",
     "County": "Jasper",
-    "OpeningBid": "",
+    "OpeningBid": "$56,440",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -190,8 +204,22 @@
     "PropCity": "Arnold",
     "PropZip": "",
     "County": "Jefferson",
-    "OpeningBid": "",
+    "OpeningBid": "$0",
     "vendor": "Auction.com",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "LOGS.COM",
+    "Sale_date": "12/17/26",
+    "Sale_time": "09:15 AM",
+    "FileNo": "25-041019",
+    "PropAddress": "3623 Gertrude Drive",
+    "PropCity": "Hillsboro",
+    "PropZip": "",
+    "County": "Jefferson",
+    "OpeningBid": "",
+    "vendor": "Xome",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -208,20 +236,6 @@
     "vendor": "Servicelink",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/20/26",
-    "Sale_time": "11:30 AM",
-    "FileNo": "26-042413",
-    "PropAddress": "407 Clay Street",
-    "PropCity": "Wellsville",
-    "PropZip": "",
-    "County": "Montgomery",
-    "OpeningBid": "",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "Cancelled",
-    "Foreclosure Status": "On Hold"
   },
   {
     "Trustee": "LOGS.COM",
@@ -290,7 +304,7 @@
     "County": "Saint Charles",
     "OpeningBid": "",
     "vendor": "",
-    "status- DROP DOWN": "",
+    "status- DROP DOWN": "Cancelled",
     "Foreclosure Status": ""
   },
   {
@@ -303,7 +317,7 @@
     "PropZip": "",
     "County": "Saint Louis",
     "OpeningBid": "$61,880",
-    "vendor": "",
+    "vendor": "Xome",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -400,7 +414,7 @@
     "PropCity": "St. Louis",
     "PropZip": "",
     "County": "Saint Louis City",
-    "OpeningBid": "",
+    "OpeningBid": "$86,580.9",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
