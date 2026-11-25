@@ -8,22 +8,8 @@
     "PropCity": "Vandalia",
     "PropZip": "",
     "County": "Audrain",
-    "OpeningBid": "",
+    "OpeningBid": "$44,880",
     "vendor": "Xome",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "12/1/26",
-    "Sale_time": "09:30 AM",
-    "FileNo": "25-041083",
-    "PropAddress": "5001 Northeast 56th Terrace",
-    "PropCity": "Kansas City",
-    "PropZip": "",
-    "County": "Clay",
-    "OpeningBid": "$138,000",
-    "vendor": "Ascribe",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -52,20 +38,6 @@
     "County": "Dent",
     "OpeningBid": "",
     "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/24/26",
-    "Sale_time": "11:00 AM",
-    "FileNo": "26-042263",
-    "PropAddress": "955 Shady Street",
-    "PropCity": "Saint Clair",
-    "PropZip": "",
-    "County": "Franklin",
-    "OpeningBid": "$80,040",
-    "vendor": "Ascribe",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -183,20 +155,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "12/2/26",
-    "Sale_time": "01:00 PM",
-    "FileNo": "26-041701",
-    "PropAddress": "1825 Pomme Road",
-    "PropCity": "Arnold",
-    "PropZip": "",
-    "County": "Jefferson",
-    "OpeningBid": "$0",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "12/17/26",
     "Sale_time": "09:15 AM",
     "FileNo": "25-041019",
@@ -304,7 +262,7 @@
     "County": "Saint Louis",
     "OpeningBid": "",
     "vendor": "Auction.com",
-    "status- DROP DOWN": "",
+    "status- DROP DOWN": "Cancelled",
     "Foreclosure Status": ""
   },
   {
