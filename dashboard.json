@@ -24,8 +24,8 @@
     "County": "Clay",
     "OpeningBid": "",
     "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
+    "status- DROP DOWN": "Cancelled",
+    "Foreclosure Status": "On Hold"
   },
   {
     "Trustee": "LOGS.COM",
@@ -71,20 +71,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/25/26",
-    "Sale_time": "10:00 AM",
-    "FileNo": "26-042476",
-    "PropAddress": "500 Northwest Europa Drive",
-    "PropCity": "Grain Valley",
-    "PropZip": "",
-    "County": "Jackson",
-    "OpeningBid": "",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "Postponed",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "12/2/26",
     "Sale_time": "10:00 AM",
     "FileNo": "26-042546",
@@ -106,7 +92,7 @@
     "PropCity": "Kansas City",
     "PropZip": "",
     "County": "Jackson",
-    "OpeningBid": "",
+    "OpeningBid": "$60,800",
     "vendor": "Xome",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -121,20 +107,6 @@
     "PropZip": "",
     "County": "Jackson",
     "OpeningBid": "",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "11/25/26",
-    "Sale_time": "10:00 AM",
-    "FileNo": "26-042281",
-    "PropAddress": "510 North Moffett Avenue",
-    "PropCity": "Joplin",
-    "PropZip": "",
-    "County": "Jasper",
-    "OpeningBid": "$56,440",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -255,26 +227,12 @@
     "Trustee": "LOGS.COM",
     "Sale_date": "12/2/26",
     "Sale_time": "11:30 AM",
-    "FileNo": "26-041740",
-    "PropAddress": "680 Crabapple Lane",
-    "PropCity": "Florissant",
-    "PropZip": "",
-    "County": "Saint Louis",
-    "OpeningBid": "",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "Cancelled",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "LOGS.COM",
-    "Sale_date": "12/2/26",
-    "Sale_time": "11:30 AM",
     "FileNo": "26-042329",
     "PropAddress": "400 Ranch Drive",
     "PropCity": "Manchester",
     "PropZip": "",
     "County": "Saint Louis",
-    "OpeningBid": "",
+    "OpeningBid": "$220,901.57",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -309,20 +267,6 @@
   },
   {
     "Trustee": "LOGS.COM",
-    "Sale_date": "11/25/26",
-    "Sale_time": "11:00 AM",
-    "FileNo": "26-042399",
-    "PropAddress": "6154 West Park Avenue",
-    "PropCity": "St. Louis",
-    "PropZip": "",
-    "County": "Saint Louis City",
-    "OpeningBid": "$86,580.9",
-    "vendor": "",
-    "status- DROP DOWN": "Cancelled",
-    "Foreclosure Status": "On Hold"
-  },
-  {
-    "Trustee": "LOGS.COM",
     "Sale_date": "12/2/26",
     "Sale_time": "11:00 AM",
     "FileNo": "26-042162",
@@ -330,7 +274,7 @@
     "PropCity": "Saint Louis",
     "PropZip": "",
     "County": "Saint Louis City",
-    "OpeningBid": "",
+    "OpeningBid": "$86,678",
     "vendor": "Realty.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -361,7 +305,7 @@
     "OpeningBid": "",
     "vendor": "Auction.com",
     "status- DROP DOWN": "Cancelled",
-    "Foreclosure Status": ""
+    "Foreclosure Status": "On Hold"
   },
   {
     "Trustee": "LOGS.COM",
